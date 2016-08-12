@@ -21,6 +21,7 @@ intelligentCoffeeMachine::intelligentCoffeeMachine(){
 }
 
 void intelligentCoffeeMachine::coffeMenu(){
+	cout << " \t ***Solution of Intellegent Coffee machine By Mujahid Abbas*** "<<endl;
     cout << " \t Please select option below "<<endl;
     cout << " 1 - Take Coffee" <<endl;
     cout << " 2 - Start Cooking" <<endl;
