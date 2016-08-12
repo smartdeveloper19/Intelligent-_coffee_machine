@@ -7,4 +7,5 @@ intelligentCoffeeMachine.cpp has implementation of all functions.
 
 main.cpp contains the complete menu to use the coffe machine.
 
-Thanks.
+Regards
+Abbas
