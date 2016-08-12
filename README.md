@@ -5,6 +5,6 @@ functions and attributes related to intellegentcoffeemachine.
 
 intelligentCoffeeMachine.cpp has implementation of all functions. 
 
-main.cpp is contains the complete menu to use the coffe machine.
+main.cpp contains the complete menu to use the coffe machine.
 
 Thanks.
