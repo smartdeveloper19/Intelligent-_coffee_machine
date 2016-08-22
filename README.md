@@ -1,4 +1,4 @@
-This is just an example to for learning concept of class in C++.
+This is just an example for learning concept of class in C++.
 
 Intelligent Coffee machine project is made in C++ using QT.
 
